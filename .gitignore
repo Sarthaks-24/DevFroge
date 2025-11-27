@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Pytest
+.pytest_cache/
+
+# Flask
+instance/
+.webassets-cache
+
+# Project specific
+models/
+recordings/
+test_metrics.csv
+*.log
+.env
+
+# Temporary audio files
+*.wav
+!recordings/*.wav
