@@ -31,3 +31,6 @@ test_metrics.csv
 # Temporary audio files
 *.wav
 !recordings/*.wav
+
+
+.github
